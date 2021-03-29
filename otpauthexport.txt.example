@@ -1,0 +1,1 @@
+otpauth://totp/AWS-etc?secret=************************************&issuer=AWS&digits=6&period=30&algorithm=SHA1

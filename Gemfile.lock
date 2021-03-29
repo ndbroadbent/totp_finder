@@ -1,0 +1,45 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    activesupport (6.1.3.1)
+      concurrent-ruby (~> 1.0, >= 1.0.2)
+      i18n (>= 1.6, < 2)
+      minitest (>= 5.1)
+      tzinfo (~> 2.0)
+      zeitwerk (~> 2.3)
+    byebug (11.1.3)
+    coderay (1.1.3)
+    concurrent-ruby (1.1.8)
+    dotiw (5.3.1)
+      activesupport
+      i18n
+    i18n (1.8.9)
+      concurrent-ruby (~> 1.0)
+    icalendar (2.7.1)
+      ice_cube (~> 0.16)
+    ice_cube (0.16.3)
+    method_source (1.0.0)
+    minitest (5.14.4)
+    pry (0.13.1)
+      coderay (~> 1.1)
+      method_source (~> 1.0)
+    pry-byebug (3.9.0)
+      byebug (~> 11.0)
+      pry (~> 0.13.0)
+    rotp (6.2.0)
+    tzinfo (2.0.4)
+      concurrent-ruby (~> 1.0)
+    zeitwerk (2.4.2)
+
+PLATFORMS
+  x86_64-darwin-20
+
+DEPENDENCIES
+  activesupport
+  dotiw
+  icalendar
+  pry-byebug
+  rotp
+
+BUNDLED WITH
+   2.2.11
