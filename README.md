@@ -7,4 +7,4 @@ Run `bundle install`, then `./totp_finder.rb`. Then you can import `totp_ical.ic
 
 ------------
 
-<small>\* There are 999999 possibilities</small>
+<sup>\* There are 999999 possibilities</sup>
